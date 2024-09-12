@@ -1,2 +1,3 @@
 # rishi_CV
-My CV highlighting some snaps of my skills and expertise
+My CV highlighting snapshot of my skills and expertise.
+
