@@ -1,4 +1,4 @@
-# Rishikesh Kesari - Tech Graduate & Data Analyst
+e# Rishikesh Kesari - Tech Graduate & Data Analyst
 
 **Master’s degree in Business Analytics** (Specialization in Computer Science)  
 University of Oulu, Finland (GPA: 4.02)  
@@ -38,6 +38,8 @@ Along with my technical expertise, I believe my values of **honesty**, **altruis
 
 - I have a broad knowledge of **geography**, **world history**, and **global facts**, which reflects my curiosity and passion for learning beyond the technical sphere.
 - I thrive on finding data-driven solutions while maintaining a well-rounded, thoughtful perspective on the world.
+
+I do what I love and Love what I do :)
 
 ---
 
