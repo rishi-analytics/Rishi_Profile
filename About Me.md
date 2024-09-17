@@ -1,4 +1,4 @@
-e# Rishikesh Kesari - Tech Graduate & Data Analyst
+## Rishikesh Kesari - Tech Graduate & Data Analyst
 
 **Master’s degree in Business Analytics** (Specialization in Computer Science)  
 University of Oulu, Finland (GPA: 4.02)  
