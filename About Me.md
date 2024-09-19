@@ -45,7 +45,7 @@ I do what I love and Love what I do :)
 
 ## 🔥 Why I Am a Good Fit
 
-I am confident that my diverse **technical skills**, **problem-solving mindset**, and strong personal values make me an ideal candidate for **Data Analyst**, **Business Analyst**, or **Business Intelligence Analyst** roles. My experience in data analysis, visualization, and collaboration equips me to contribute meaningfully to any team.
+I am confident that my diverse **technical skills**, **problem-solving mindset**, and strong personal values make me an ideal candidate for **Data Analyst**, **Business Analyst**, or **Business Intelligence Analyst** roles. Creativity is at the core of what I do. My experience in data analysis, visualization, and collaboration equips me to contribute meaningfully to any team.
 
 ---
 
